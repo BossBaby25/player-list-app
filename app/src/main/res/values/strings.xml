@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FootballPlayerApp</string>
+
+    <!-- Define player names -->
+    <string-array name="players_array">
+        <item>Lionel Messi</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Neymar Jr.</item>
+        <item>Robert Lewandowski</item>
+        <item>Kevin De Bruyne</item>
+        <item>Kylian Mbappe</item>
+        <item>Virgil van Dijk</item>
+        <item>Sadio Mane</item>
+        <item>Mohamed Salah</item>
+        <item>Sergio Ramos</item>
+        <item>Luka Modric</item>
+        <item>Eden Hazard</item>
+        <item>Harry Kane</item>
+        <item>Luis Suarez</item>
+        <item>Sergio Aguero</item>
+        <item>Sergio Aguero</item>
+        <item>Sergio Aguero</item>
+        <item>Sergio Aguero</item>
+        <item>Sergio Aguero</item>
+        <item>Sergio Aguero</item>
+        <item>Sergio Aguero</item>
+    </string-array>
+</resources>
